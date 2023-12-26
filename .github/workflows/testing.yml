@@ -12,3 +12,6 @@ jobs:
       - name: Echo the message
         run: |
           echo "Jean Ruiz is testing out GitHub Actions 🚀"
+      - name: Dime la fecha
+        run: |
+          echo "La fecha es: $(date)"

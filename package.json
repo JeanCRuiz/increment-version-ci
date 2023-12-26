@@ -1,0 +1,17 @@
+{
+  "name": "increment-version-ci",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "increment": "node version-local.js && node version-firebase.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.7.1",
+    "firebase-admin": "^12.0.0",
+    "inquirer": "^9.2.12"
+  }
+}

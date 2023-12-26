@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "global-zechat",
+    "private_key_id": "8e2d989b7341b42082e689b0bae69e666a2099d7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDKsDeFJpguPlzB\nPgGuawOsULGVca3PcVEiyssCc2E40ruczd+NE4pqJBGC+ZpSyslFkCMhdSjL0ykP\n0IghaKW2CCCotZ5Yx7APmcoFJ44qp+VQTLxFaIbrZ62V/h3wnU7hhOeL7H1XmnHT\njbpaNQL8fhy1ixY5deMVrZ0rJOWQC7wRSF/jHI8TN8qYwOngYHm/153XMlkiC7A8\nBbZa1xqCUYPb97fXIJvYC8fhcUBTrDhZ3K3Hci+Evy/PeQP1MmpXy1WNPhqV2Znq\nyLlRmjkZC876W/QHSokMKrup7Bd1zw9aaxAlqqfNiH30RdVADs8fQb5Y2VC8Trxc\nnzd/oZV7AgMBAAECggEAEd3gtwME7SagJISjv009oKXoUYUYzi1t+oQnywqCqnCh\nCxx2tUfgrqSJSqNYAC5R+ajP//YE55qwhu1Z4qAH43jp8BU6ZRcNJQLodPXcqVPt\neduZyQCCzCNygMNKvlgPiP+fLY1mKx+5Iu3eXG9J2RoAy9v71IrYvqN0NEZnWgAW\npaV1rjA5sZmkIWeGuMvrW+s7FOYWv7TXA7RC2Mx8O0C8UXFQSFJeovtYIAhHCurg\nN0D0iRBOp938TgswLMvi67+Z0LqLtHFFbef5Flm5+WFge2W9dDdXj5RXzgr3YZ4U\nY4UFwfiNGuPCwq7JDdQNNJsEBDVzYY2tZNAEJtSkyQKBgQDl/kU9BomuWX2Unp0t\nrQGloFIpCyTYj1fCxSUmyicv52jz4HUu+WN7MtrmetrFqRQf7Z8ZuU9TZRijsmhk\nkcUjgt5Si8Gzog9CqEDxr50pjfNTNL5PZ2srdzT4FAL1smMbBQf+kdJcJePR7qkz\npYLfQfuXe243Ymy7wOiu4JJE5wKBgQDhm4mzyGpKr+tSg1mSFqBzQrl6/sjJkRTa\nm2Eidlmi6s6zx63itMOZYmk+Ie2Ys9CiO4hBli+idr4orCHDJnLUE1c042zfh8E3\nyhFrF22PB2yYzrC0W5gee5KSsMZfBfXbtoEZ3U2ifXZsi4w/Mz8vKNGq/5BAhjGi\n6FArs87ETQKBgHcCc+F4GJZXSFw3Fy4jb868fscuNQq6YbcvPGIuCMkI/Y30f66m\n7Ys6bXsF516QdxFua/1rnliQ34cVMl+X7mLJvTEJkFnbafocBj8JmFGAWoCbsj50\nTUhYjtgvwrhQbmf02oYn/qogERr4XCWVZ3sPMZjZDdcq3wjocX7MRePRAoGAeDv7\nXDwQIbO1lyj3YHr8kdDapukIOxw93+91CffG96Np+7gMPMkXgTRIYFuWk44pP3y4\ntjODOXNNDsIF0Eo6YjnYfRBDYrGn0MK5G7jFo7dSMfHdjJFP9dbnm5PodJXpnGmc\nTht6F4IDzf9lA/2cy9ZWP2qqByk9ZNOoflH6fPUCgYAfoeT8spDJhxUirTZDZ2xT\nSvhJI8FOzBwVq6lMdX4B0Fdurhoru/lOgadFdYdgP92xVaSYvCaYeKTgJhjCeEni\nTGTqr5OwxsOFGQfHps45XnWw+9/VR+WGs7fk4XjbbF7A6iNONaEP9Gaelat/DRb4\nm9ruDafowfPw5MUOEvw/uw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-t7wog@global-zechat.iam.gserviceaccount.com",
+    "client_id": "100638450108536860857",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-t7wog%40global-zechat.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
